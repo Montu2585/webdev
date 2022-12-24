@@ -1,0 +1,75 @@
+.box0 {
+    background-image: url(img/web28.jpeg);
+    height: 200px;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+}
+
+.photography {
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 100px;
+    color: darkred;
+}
+
+.montuml {
+    height: 450px;
+}
+
+.vishal {
+    height: 450px;
+}
+
+.montuml {
+    border-radius: 50% 50%;
+    block-size: 200px;
+    margin-top: 30px;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    font-family: 'Sono', sans-serif;
+}
+
+.personp {
+    text-align: center;
+    font-weight: 300px;
+}
+
+.icon {
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.peregraph {
+    height: 100px;
+    background-color: gray;
+    background-image: url(img/web013.jpg);
+}
+
+.quetp {
+    font-size: 15px;
+    font-family: 'Caveat', cursive;
+    margin: auto;
+}
+
+.home {
+    margin: 10px 0px 0px 0px;
+}
+#my-navigation .navbar-toggle{
+    padding: 5px;
+    float: left;
+}
+#my-navigation .navbar-header{
+    float: none;
+}
+
+#my-navigation .icon-right{
+    float: right;
+
+}
